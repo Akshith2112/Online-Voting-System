@@ -5,3 +5,4 @@ Pillow
 pyotp
 sqlalchemy
 streamlit-option-menu
+face-recognition
