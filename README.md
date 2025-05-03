@@ -104,11 +104,6 @@ Open a pull request.
 📜 License
 This project is licensed under the MIT License.
 
-📬 Contact
-For questions or issues, please:
-
-Open an issue on GitHub.
-Contact [your-email@example.com].
 
 
 🌟 Acknowledgments
