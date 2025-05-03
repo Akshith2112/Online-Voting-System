@@ -1,5 +1,7 @@
 streamlit
-opencv-python
-face_recognition
+opencv-python-headless
 numpy
-pandas
+Pillow
+pyotp
+sqlalchemy
+streamlit-option-menu
